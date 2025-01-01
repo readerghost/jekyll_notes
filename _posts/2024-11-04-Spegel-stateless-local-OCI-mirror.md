@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Spegel - Stateless Local OCI Mirror
 date: 2024-11-04
 categories: [OCI, Mirror, Spegel]
@@ -92,4 +92,4 @@ Shows how metrics are collected and organized across the system components.
 
 ## Conclusion
 
-I hope I gave a visual understanding of the Spegel project and its architecture. If you got intrigued, next step would be to dive into the source code at [Spegel GitHub](https://github.com/spegel-org/spegel/tree/main).
+I hope I gave a visual understanding of the Spegel project and its architecture. If you got intrigued, next step would be to dive into the source code at [Spegel GitHub](https://github.com/spegel-org/spegel/tree/main). -->

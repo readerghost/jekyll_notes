@@ -1,4 +1,4 @@
----
+<!-- ---
 title: What Infrastructure does it take to train a 405B Llama3-like model?
 date: 2024-07-28
 categories: [LLM, Infrastructure, GPU, Distributed Training]
@@ -95,4 +95,4 @@ Understanding the infrastructure needs for training the frontier models might se
 2. [The LLaMA 3 Herd of Models (Meta AI)](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 3. [Building Meta's GenAI Infrastructure (Meta Engineering)](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 4. [Training Large Language Models at Scale (Meta Engineering)](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-5. [70B Infrastructure (Imbue)](https://imbue.com/research/70b-infrastructure/)
+5. [70B Infrastructure (Imbue)](https://imbue.com/research/70b-infrastructure/) -->

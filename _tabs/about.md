@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
+<!-- 
 I'm Ahmed Tremo, an Applied Scientist at [Microsoft](https://www.microsoft.com/). I previously I worked as machine learning engineer working at [Dell Techonolgies](https://www.dell.com/) & a data engineer at [Lumin Systems](http://excelsystems-eg.com/).
 
 I graduated from The [German university in Cairo](https://www.guc.edu.eg/), with a bachelor's degree in computer engineering with an Excellent with honors grade.
@@ -19,4 +19,4 @@ Summer 2019, I spent 3 months in the US as a part of culture exchange program ca
 _Me at the top of [Mount Moses](https://en.wikipedia.org/wiki/Mount_Sinai), Sinai, Egypt_
 
 
-I’m best reached through [LinkedIn](https://www.linkedin.com/in/ahmedtremo/). I’m always open to interesting conversations and collaboration.
+I’m best reached through [LinkedIn](https://www.linkedin.com/in/ahmedtremo/). I’m always open to interesting conversations and collaboration. -->

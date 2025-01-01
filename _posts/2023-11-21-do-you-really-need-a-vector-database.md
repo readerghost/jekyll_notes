@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Do you really need a Vector Database?
 date: 2023-11-21 22:50 +0200
 categories: [LLMs, GenAI, VectorDBs, Embeddings]
@@ -37,4 +37,4 @@ Vector Databases definitely have their specialized use cases, especially for use
 - [Beware Tunnel Vision in AI Retrieval - by Colin Harman](https://colinharman.substack.com/p/beware-tunnel-vision-in-ai-retrieval)
 - [Do you actually need a vector database? - Ethan Rosenthal](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 
-\#vectordbs \#llms \#genai \#ir
+\#vectordbs \#llms \#genai \#ir -->

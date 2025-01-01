@@ -1,4 +1,4 @@
----
+<!-- ---
 title: How to Efficiently Serve an LLM?
 date: 2024-08-05 +05:30
 categories: [LLM, Inference, Optimization, Serving]
@@ -94,4 +94,4 @@ Architecture for LLM Serving](https://arxiv.org/pdf/2407.00079)
 8. [Token Probability Distribution (Hugging Face)](https://huggingface.co/spaces/osanseviero/token_probability_distribution)
 9. [Welcome to vLLM! — vLLM Documentation](https://docs.vllm.ai/en/stable/)
 10. [Serving Large Language Models: Technologies and Choices (run.ai)](https://www.run.ai/blog/serving-large-language-models)
-11. [Efficient Large Language Model Serving (arXiv)](https://arxiv.org/pdf/2402.16363)
+11. [Efficient Large Language Model Serving (arXiv)](https://arxiv.org/pdf/2402.16363) -->
